@@ -1,8 +1,8 @@
-# A Array of Sequences  - Part 2-3
+# An Array of Sequences  - Part 2-3
 
 準備中
 
-[Youtube Tutorial  - A Array of Sequences - Part 2-3](xxx)
+[Youtube Tutorial  - An Array of Sequences - Part 2-3](xxx)
 
 ***list.sort and the sorted Built-In Function***
 
