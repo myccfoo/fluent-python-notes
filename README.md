@@ -16,6 +16,8 @@ Fluent Python Study Notes 📝
 
 2-3. [An Array of Sequences Part 2-3](https://github.com/twtrubiks/fluent-python-notes/tree/master/A_Array_of_Sequences_part_2_3_temp)- 整理中
 
+other-1. [What is the Python GIL](https://github.com/twtrubiks/fluent-python-notes/tree/master/what_is_the_python_GIL)
+
 ## 執行環境
 
 * Python 3.6.4
